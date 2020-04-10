@@ -8,7 +8,7 @@ with labeled audio recordings from sdr tuned to radio station:
 2. train model on features w/ to learn 'radio' / 'music' / 'noise'
 3. incorporate prior knowledge:
    - radio advertisements usually last 10, 15, 30, or 60 seconds
-   - advertisements should be identical, so try to come up with features that match across repetitions of advertisement
+   - advertisements should be identical, so try to come up with features that match across repetitions of advertisement (subsequence DTW?)
 
 operation step:
 
