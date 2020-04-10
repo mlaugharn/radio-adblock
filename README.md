@@ -11,6 +11,7 @@ with labeled audio recordings from sdr tuned to radio station:
    - advertisements should be identical, so try to come up with features that match across repetitions of advertisement
 
 operation step:
+
 with input audio stream from sdr tuned to radio station:
 1. gather observations, using feature extractors
 2. model current state and transitions using e.g. Hidden Markov Model
