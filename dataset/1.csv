@@ -1,0 +1,8 @@
+start, end, label
+0,4.2,noise
+4.2,7.952,music
+7.952,10.1,noise
+10.1,23.576,music
+33.8,35.8,music
+35.8,38.35,noise
+36.7,205,ad
